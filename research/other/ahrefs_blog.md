@@ -1,6 +1,6 @@
 # 10 SEO Trends I’ve Seen Firsthand in 2026 (With Data)
 
-## https://ahrefs.com/blog/seo-trends/
+**Source:** https://surferseo.com/blog/seo-examples/
 
 ### Summary
 
