@@ -39,3 +39,26 @@
   and not VS Code/Cursor extensions. What I just did was installing them
 
   directly via terminal and confirming they integrate fine through Cursors terminal.
+
+Continuation:
+
+## AI-Powered SEO Content Production
+
+### Topic
+How practitioners use AI tools to scale SEO content production without sacrificing quality.
+
+### What I Collected
+- 10 expert sources documented in `/research/sources.md`
+- LinkedIn posts from 8 experts in `/research/linkedin-posts/`
+- YouTube transcripts from 2 channels in `/research/youtube-transcripts/`
+- Blog summaries from Ahrefs and SurferSEO in `/research/other/`
+
+### Why These Experts
+I selected SEO experts who actively test and publish real results and not just 
+theorists. Focused on people running AI SEO experiments on live sites 
+(Matt Diggity, Nathan Gotch) and tool companies with proprietary data (Ahrefs, SurferSEO).
+
+### Key Insight So Far
+The experts agree: AI content at scale works only with editorial standards and 
+topical relevance. Volume without quality gets penalized. Brand authority and 
+entity consistency are becoming the core of modern SEO.
