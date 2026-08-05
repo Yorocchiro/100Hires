@@ -41,3 +41,22 @@ A proven content production workflow using this model (Nathan Gotch LinkedIn):
 6. **Write a Killer Content Brief**  Include intelligence from your search brainiac, at least 3 proven templates matching the content type, the most important entities to cover, and your differentiation angle
 
 Whether you use AI or a human writer to execute from that brief is secondary. The brief is what prevents generic output. (Nathan Gotch LinkedIn)
+
+---
+
+### Step 4 Fix Intent Alignment Before Creating New Content
+
+Most underperforming pages suffer from intent mismatch, not thin content. (Matt Diggity LinkedIn) Adding new content before fixing existing pages compounds the problem.
+
+**What this means in practice:**
+- Refresh existing content to match what users actually need from each query
+- Improve structure, readability, and depth on informational pages
+- Build contextual internal links from educational content to commercial/conversion pages
+- Run a full user-journey audit to find friction points and weak CTAs
+(Matt Diggity LinkedIn)
+
+Also audit for keyword and topic cannibalization. When multiple pages target the same intent, authority is split between them and none rank effectively. Consolidate or differentiate overlapping pages so each holds a distinct focus. (Matt Diggity LinkedIn)
+
+Case evidence: In a trust-sensitive eCommerce niche, fixing intent alignment as part of a broader 5-step strategy drove +59.6% YoY organic sessions and AI Overviews visibility from near zero to 634 high-intent keywords. (Matt Diggity LinkedIn)
+
+---
