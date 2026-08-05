@@ -60,3 +60,67 @@ Also audit for keyword and topic cannibalization. When multiple pages target the
 Case evidence: In a trust-sensitive eCommerce niche, fixing intent alignment as part of a broader 5-step strategy drove +59.6% YoY organic sessions and AI Overviews visibility from near zero to 634 high-intent keywords. (Matt Diggity LinkedIn)
 
 ---
+
+### Step 5 How to Structure Content So AI Can Parse and Repeat It
+
+Generative AI platforms often pull from top-ranking search results and trusted sources to compose answers. (SurferSEO YouTube) To be the source they pull from, content must be structured for machine consumption, not just human readers.
+
+**What AI-ready content looks like:**
+- **Natural language and question-focused writing** The AI models are built on conversational text and naturally prefer content that sounds like a human expert explaining something. (SurferSEO YouTube)
+- **Clear heading hierarchy** When an AI is asked a specific question, a proper heading directs it to the right section. (SurferSEO YouTube)
+- **Bullet points and numbered lists** Is easy for AI to quote verbatim, key points don't get lost in paragraphs. (SurferSEO YouTube)
+- **FAQ sections** Capture succinct Q&A pairs that AI can parse and repeat directly. (SurferSEO YouTube)
+- **Tables for comparative data** AI can parse individual cells and may quote specific values. (SurferSEO YouTube)
+- **Semantic richness** Use a natural variety of related terms, concepts, and entities rather than repeating the same keyword. (SurferSEO YouTube)
+
+Well-organized, authoritative content with clear sections and FAQ entries increased inclusion in AI-generated answers by up to 37% on platforms like Perplexity (2024 study, via SurferSEO YouTube).
+
+**E-E-A-T signals to include in content:**
+- Firsthand experiences or case studies
+- Statistics and citations from reputable sources
+- Author credentials visible on every piece
+- Multiple perspectives on complex topics
+- Addresses potential objections or limitations
+(SurferSEO YouTube)
+
+---
+
+### Step 6 Handle Technical Foundations for AI Crawlability
+
+AI search tools primarily read raw HTML. Content hidden behind JavaScript interactions or embedded in images may be missed entirely. (SurferSEO YouTube) A 1,200% jump in AI-driven retail visits occurred between July 2024 and February 2025 — brands that were invisible to AI missed all of it. (AJ Ghergich LinkedIn)
+
+**Technical checklist:**
+- **robots.txt** Confirm you are not blocking OpenAI's GPTBot, Google's crawlers, or Microsoft's Bingbot. (SurferSEO YouTube)
+- **HTML text, not JavaScript** Key information must be in raw HTML, not rendered via JavaScript interactions. (SurferSEO YouTube)
+- **Alt text and transcripts** Descriptive alt text for images, transcripts for videos make multimedia content accessible to AI. (SurferSEO YouTube)
+- **Bing indexing and sitemap submission** ChatGPT Search uses Bing's index, not Google's. Submit a sitemap to Bing Webmaster Tools and confirm indexing there. (SurferSEO YouTube, AJ Ghergich LinkedIn)
+- **Site structure** Most valuable content should be within a few clicks of the homepage; use descriptive internal linking. (SurferSEO YouTube)
+- **Structured product feeds** For eCommerce, structured product feeds are the sitemaps of agentic commerce; foundational and protocol-agnostic regardless of which AI standard wins. (AJ Ghergich LinkedIn)
+
+**Schema markup:**
+- Organization schema tells AI about your brand, name, logo, and social profiles, with the basis of knowledge panels. (SurferSEO YouTube)
+- Article schema signals publication date, author, and headline that factors AI uses to determine recency and credibility. (SurferSEO YouTube)
+- Google has confirmed there is no secret AI tag, schema types already used in standard SEO practice are what AI relies on. (SurferSEO YouTube)
+
+**Off-site structured data:** Add your business to Wikidata (the structured database behind Wikipedia), Google My Business, Bing Places, LinkedIn Company Pages, Crunchbase, and any relevant industry databases. AI models sample data across large knowledge sources, and these are prime candidates for LLM training data. (SurferSEO YouTube)
+
+---
+
+### Step 7 Build Off-Property Authority in the Specific Topics AI Associates With You
+
+AI reuses trust already attached to sources it pulls from, it doesn't form a fresh opinion about your brand on every query. It favors entities it already recognizes on a specific topic. Your owned blog is one of the weaker inputs, publications, analysts, and competitors that mention you carry more weight because the model doesn't have to take your word for your own authority. (Kevin Indig LinkedIn)
+
+AI trusts a different set of sources for every topic, so there is no fixed list. Off-property authority has to be topic-specific. For example, competitor domains hold 33.5% of what AI cites for invoicing questions, but only 7% for starting a business questions. Building mentions everywhere wastes budget. (Kevin Indig LinkedIn)
+
+The data reinforces this: 75% of AI citations pull from sources outside Google's top 10. Ranking #1 in Google still only gives a 31% shot at appearing in AI answers. Brands now have two scores that matter, and most are only tracking one. (Neil Patel LinkedIn, based on 4,300 prompts across 500 commercial keywords)
+
+Branded web mentions correlate with AI visibility at 0.66–0.71 — the strongest signal in the Ahrefs dataset. (Ahrefs Blog)
+
+**What to do:**
+- Map the specific domains AI already cites for your topic, then earn your way into that set. (Kevin Indig LinkedIn)
+- Secure brand mentions and editorial links from relevant industry publications. (Matt Diggity LinkedIn)
+- Proactively pitch inclusion in "best of" roundups on authoritative sites, even a mention without a dofollow link is valuable because LLMs sample that data. (SurferSEO YouTube)
+- Build community-driven visibility on Reddit. In trust-sensitive niches, buyers check Reddit before they check Google, and AI tools pull heavily from those conversations. (Matt Diggity LinkedIn)
+- Stack E-E-A-T and Digital PR: expand About pages with real credentials, make author information visible on every piece, implement "Why You Can Trust Us" sections. (Matt Diggity LinkedIn)
+
+Case evidence: Queensmith (London jeweller) secured editorial coverage in The Telegraph, Grazia, and Marie Claire, with tripled site visitors and exceeded $1M average monthly revenue within 8 months. Examine.com, a nutrition database staffed by PhD researchers, gets natural backlinks from the NYT, Guardian, and Forbes with zero outreach, and recovered from a 90% traffic drop after a 2018 Google update. (SurferSEO Blog)
