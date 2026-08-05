@@ -14,7 +14,7 @@ Strong traditional SEO is the foundation for AI search visibility. You likely wo
 
 **What this means in practice:**
 - Fix technical and UX issues, identify keyword and backlink gaps, and match content to search intent before reaching for AI tools. (Nathan Gotch LinkedIn)
-- Don't skip fundamentals because AI tools seem to replace them — the quality of AI output is only as good as the SEO knowledge guiding it. Someone without SEO expertise doesn't guide AI; AI guides them. (Ahrefs YouTube)
+- Don't skip fundamentals because AI tools seem to replace them, as the quality of AI output is only as good as the SEO knowledge guiding it. Someone without SEO expertise doesn't guide AI; AI guides them. (Ahrefs YouTube)
 
 ---
 
@@ -124,3 +124,31 @@ Branded web mentions correlate with AI visibility at 0.66–0.71 — the stronge
 - Stack E-E-A-T and Digital PR: expand About pages with real credentials, make author information visible on every piece, implement "Why You Can Trust Us" sections. (Matt Diggity LinkedIn)
 
 Case evidence: Queensmith (London jeweller) secured editorial coverage in The Telegraph, Grazia, and Marie Claire, with tripled site visitors and exceeded $1M average monthly revenue within 8 months. Examine.com, a nutrition database staffed by PhD researchers, gets natural backlinks from the NYT, Guardian, and Forbes with zero outreach, and recovered from a 90% traffic drop after a 2018 Google update. (SurferSEO Blog)
+
+---
+
+### Step 8 Develop Comprehensive Topical Authority
+
+AI Overviews mention an average of 5 sources per query, and 90% of the time Google lists 8 or fewer sources, but multiple pieces of content from the same domain can appear. A site that covers a topic from every angle significantly increases its chances of being cited multiple times. (SurferSEO YouTube)
+
+AI search engines also use Query Fan-Out: they generate multiple hidden sub-queries from one user prompt. A single page targeting one keyword won't capture this. Topic clusters that are not individual pages, are the structural response. Interest in this topic is up +2,550%. (Ahrefs Blog)
+
+Information-only sites are down approximately 72% from peak traffic because AI Overviews now directly answer most informational queries. The sites that survive and grow use content to build authority toward commercial outcomes, not to answer generic questions in isolation. (Ahrefs Blog) Surfer SEO's content-led approach, with educational content covering the full niche, not just product keywords and 11 times their organic traffic in two years and attributed approximately 25% of company revenue to content. (SurferSEO Blog)
+
+---
+
+### Step 9 Distribute Across Platforms; Visibility on Each Feeds AI Answers
+
+Traffic is fragmenting across YouTube, TikTok, Reddit, and Amazon. Visibility on these platforms now feeds AI answer visibility too. (Ahrefs Blog) SEO skills with keyword research, search intent, link building, technical fundamentals, can transfer to any platform that surfaces content based on user queries. (Ahrefs YouTube)
+
+Google, TikTok, and Facebook are processing video audio and visual data in real-time. Optimizing for AI comprehension of video content means paying close attention to what happens within videos, the AI is watching and listening, not just reading text around it. (Cindy Krum LinkedIn)
+
+Rand Fishkin's framing: the shift is from traffic-driven to influence-driven marketing. PR remains one of the most undervalued marketing channels, with presence across the sources your audience actually reads, watches, and listens to creates compounding visibility that AI citation directly benefits from. (Rand Fishkin LinkedIn)
+
+---
+
+### Step 10 Track AI Visibility, Not Just Rankings
+
+AI Overviews reduce clicks by 58% and Google is keeping more users on the SERP. The unit economics of SEO have fundamentally changed. (Ahrefs Blog) Tracking clicks from LLMs is often not useful because users get answers conversationally and don't click. The right metric right now is brand mentions by AI, not click-through. (SurferSEO YouTube)
+
+Two scores now matter: traditional search rankings and AI citation rate. Most brands are only tracking one. (Neil Patel LinkedIn) Branded web mentions correlate with AI visibility at 0.66–0.71 and monitoring those mentions is currently the most reliable leading indicator. (Ahrefs Blog)
