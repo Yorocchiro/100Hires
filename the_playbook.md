@@ -258,3 +258,16 @@ Why it could work: I got the idea from a small side project of mine, a basic hom
 **Everything here is synthesized from other people's claims, not tested by me.** Nothing in this playbook has been run against a live site. The scorecard idea in Section 4 is designed specifically to start closing that gap, but as of this submission it's a proposal, not a result.
 
 **A couple of the specific stats are US-scoped, and shouldn't be assumed to generalize further than that.** The Higher Visibility study behind the 79.8%-prefer-traditional-search figure (Step 1) surveyed Americans specifically, and Ghergich's 1,200% AI-retail-traffic stat (Step 6) is about US retailers. More broadly, every source here operates in English and centers on Google, Bing, and English-language ChatGPT behavior; nothing addresses Baidu, Yandex, or non-English AI search directly. That said, the roster itself isn't purely a US perspective, Matt Diggity's agency work is international, and Aleyda Solís specifically focuses on multilingual SEO, so I don't want to overstate this as a uniformly US-centric research set. It's an English-language-market lens more than a strictly American one.
+
+
+## Section 6: Who I Wouldn't Recommend Following and Why
+
+### Cindy Krum
+
+Of the ten experts I researched, Krum is the one I wouldn't point a beginner toward as a primary source on this topic, and I say that having actually used two of her claims in this playbook.
+
+The claim I used in Step 2, that Google's MUM model connects keywords into "journeys" and drives entity-first, language-agnostic search, holds up because MUM is a real, well-documented Google system; her post accurately describes something independently verifiable. But the claim I used in Step 9, that Google, TikTok, and Facebook are actively processing video audio and visual content in real time, is asserted with the same confidence and no supporting data, study, or example at all. That's not a one-off gap; across all three of her posts I collected, the pattern repeats: broad, assertive claims about what AI systems are "undoubtedly" doing, without a source, a number, or a specific case to check the claim against.
+
+That's a meaningfully different style from the other nine experts, where I could usually verify a stat against a named study (Ahrefs, Surfer, Neil Patel) or a specific, checkable case (Matt Diggity, Rand Fishkin). With Krum, I had no way to tell confident intuition apart from actual insider knowledge, and reputation elsewhere in the industry isn't a substitute for that. (source: Cindy Krum, LinkedIn; 23 June 2026; https://www.linkedin.com/posts/cindykrum_seo-googlesearch-mum-ugcPost-7475095892191105025-SRcK/); (source: Cindy Krum, LinkedIn; 25 June 2026; https://www.linkedin.com/posts/cindykrum_seo-ai-videomarketing-ugcPost-7475818667163799552-Woxy/)
+
+To be clear, I'm not saying her underlying expertise isn't real; she's cited elsewhere in the industry as a leading voice on mobile and entity-based search, and it's entirely possible her strongest material lives in a format I didn't capture during Stage 1, a conference talk or a longer newsletter piece, rather than a LinkedIn post. But based specifically on what I was able to research, I'd tell someone to verify her claims elsewhere before acting on them, rather than following her as a standalone source.
