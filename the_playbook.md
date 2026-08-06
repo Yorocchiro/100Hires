@@ -180,3 +180,33 @@ Rand Fishkin's framing: the shift is from traffic-driven to influence-driven mar
 AI Overviews reduce clicks by 58% and Google is keeping more users on the SERP. The unit economics of SEO have fundamentally changed. (source: Ahrefs, "10 SEO Trends I've Seen Firsthand in 2026 (With Data)"; https://ahrefs.com/blog/seo-trends/) Tracking clicks from LLMs is often not useful because users get answers conversationally and don't click. The right metric right now is brand mentions by AI, not click-through. (source: Matt Kenyon, Surfer SEO, YouTube; "How to Dominate AI Search Results in 2026"; 28 May 2025; [https://www.youtube.com/watch?v=bhTo8fDmr5I](https://www.youtube.com/watch?v=bhTo8fDmr5I))
 
 Two scores now matter: traditional search rankings and AI citation rate. Most brands are only tracking one. (source: Neil Patel, LinkedIn; 16 June 2026; [https://www.linkedin.com/posts/neilkpatel_seo-aimarketing-googlesearch-ugcPost-7472619214919630848-pPyi/](https://www.linkedin.com/posts/neilkpatel_seo-aimarketing-googlesearch-ugcPost-7472619214919630848-pPyi/)) Branded web mentions correlate with AI visibility at 0.66–0.71 and monitoring those mentions is currently the most reliable leading indicator. (source: Ahrefs, "10 SEO Trends I've Seen Firsthand in 2026 (With Data)"; https://ahrefs.com/blog/seo-trends/)
+
+## Section 2: Where Experts Disagree
+
+### Disagreement 1 How urgent is the shift to AI search, really?
+
+**AJ Ghergich** argues the shift is already here and brands that don't act now will lose ground permanently. He points to a 1,200% jump in AI-driven retail visits between July 2024 and February 2025, describes purchase journeys collapsing from 12+ steps to 3 or fewer, and frames this as "a completely new game" where brands need to win at AI-driven retrieval before anything else. (source: AJ Ghergich, LinkedIn; 11 July 2025; https://www.linkedin.com/posts/ajghergich_my-late-grandmother-always-told-people-i-share-7349440790181367808-k_I7/)
+
+**Matt Kenyon (Surfer SEO)** takes a more measured position. A 2025 Higher Visibility study found 79.8% of Americans still prefer traditional search engines, and he frames GEO as "less of a new discipline you have to master and more of an additional layer" added onto an existing SEO foundation, not a replacement requiring urgent pivot. (source: Matt Kenyon, Surfer SEO, YouTube; "How to Dominate AI Search Results in 2026"; 28 May 2025; https://www.youtube.com/watch?v=bhTo8fDmr5I)
+
+**Side I take:** Kenyon's framing, with a caveat. Ghergich's data is real, but it comes from e-commerce and fashion retail specifically, categories where AI shopping agents are furthest along. For content-driven SEO generally, Kenyon's "additional layer, not a new discipline" framing matches what shows up across the rest of the research and the tactics that improve AI visibility (structure, EEAT, topical authority) are largely the same tactics that already work for classic SEO. I'd tell a team to build this into existing workflows as a near-term priority, not treat it as a five-alarm fire that needs a separate budget line.
+
+---
+
+### Disagreement 2 Should you scale AI content production aggressively, or hold the line on depth?
+
+**Nathan Gotch** describes a scale-oriented workflow: build a "swipe file" by studying top competitors and converting their best content into a reusable template, then repeat that process for roughly 100 assets. (source: Nathan Gotch, LinkedIn; 6 May 2026; https://www.linkedin.com/posts/nathangotch_when-creating-pages-for-seo-aeo-they-activity-7457790873058291712-1MuE)
+
+**SurferSEO's own case study data** argues against volume as a strategy on its own. HubSpot lost 80% of its traffic after publishing large volumes of off-topic content (quote templates, generic tools) purely to maximize traffic surface area, following Google's November/December 2024 core updates. Tailride published 22,000 AI-generated pages targeting unrelated long-tail keywords; traffic spiked, then crashed three months later once Google's spam policies caught up. (source: SurferSEO, "12 Real Life SEO Examples to Learn From"; https://surferseo.com/blog/seo-examples/)
+
+**Side I take:** The case study data, but the disagreement is softer than it first looks. Gotch's own post doesn't actually argue for volume without quality control, his workflow ties every one of those 100 assets to competitor research and a gap analysis first, and he explicitly builds in a "content brief" step specifically to prevent generic output. The real disagreement is about how much scale is safe once quality controls exist. The case studies suggest the failure mode isn't AI content itself, it's AI content published without topical relevance or editorial review. I'd cap early-stage scale at whatever a small team can genuinely fact-check and edit, and treat "100 assets" as a target to grow into once the review process is proven, not a week-one target.
+
+---
+
+### Disagreement 3 Is it worth investing in new AI-specific technical formats now?
+
+**Ahrefs' own data** is skeptical of at least one popular new format: their analysis found 97% of llms.txt files get zero visits and no major AI provider actually uses the file, concluding it's "largely useless" and not worth the time. (source: Ahrefs, "10 SEO Trends I've Seen Firsthand in 2026 (With Data)"; https://ahrefs.com/blog/seo-trends/)
+
+**AJ Ghergich**, writing about agentic commerce, argues the opposite direction for a related category of new technical infrastructure: structured, machine-readable product feeds are "the sitemaps of agentic commerce," foundational and protocol-agnostic, and brands that invest early "compound their advantage no matter which standard wins." (source: AJ Ghergich, LinkedIn; 17 April 2026; https://www.linkedin.com/posts/ajghergich_agenticcommerce-aisearch-seo-share-7450597739681222657-U67n/)
+
+**Side I take:** Both, because they're not actually describing the same artifact. llms.txt is a single speculative file with no confirmed adoption by any AI provider, skip it. Structured product feeds and schema markup are different: they're built on standards search engines and AI crawlers already demonstrably use (see Step 5 and Step 6 above). The generalizable rule here is really Ahrefs' own standard: invest in machine-readability that has evidence of being read, and skip formats that exist mainly as a trend.
