@@ -210,3 +210,23 @@ Two scores now matter: traditional search rankings and AI citation rate. Most br
 **AJ Ghergich**, writing about agentic commerce, argues the opposite direction for a related category of new technical infrastructure: structured, machine-readable product feeds are "the sitemaps of agentic commerce," foundational and protocol-agnostic, and brands that invest early "compound their advantage no matter which standard wins." (source: AJ Ghergich, LinkedIn; 17 April 2026; https://www.linkedin.com/posts/ajghergich_agenticcommerce-aisearch-seo-share-7450597739681222657-U67n/)
 
 **Side I take:** Both, because they're not actually describing the same artifact. llms.txt is a single speculative file with no confirmed adoption by any AI provider, skip it. Structured product feeds and schema markup are different: they're built on standards search engines and AI crawlers already demonstrably use (see Step 5 and Step 6 above). The generalizable rule here is really Ahrefs' own standard: invest in machine-readability that has evidence of being read, and skip formats that exist mainly as a trend.
+
+## Section 3: What I Rejected and Why
+
+### 1. AJ Ghergich's agentic commerce protocol-war framing (OpenAI's ACP vs. Google's UCP)
+
+Ghergich spends real energy on which checkout protocol will win the emerging "agentic commerce" standards race, and argues brands should position themselves relative to that outcome. (source: AJ Ghergich, LinkedIn; 17 April 2026; https://www.linkedin.com/posts/ajghergich_agenticcommerce-aisearch-seo-share-7450597739681222657-U67n/)
+
+I didn't include this. It's genuinely interesting for e-commerce strategy, but it's speculative infrastructure with no resolved standard, and it's specific to transactional checkout flows rather than content production, which is the actual topic of this playbook. Building a content SOP around which protocol wins would date the playbook within months and doesn't serve the stated brief. I did pull the one durable idea from the same post, structured product feeds, into Step 6, since that's built on standards already in use rather than a bet on an unresolved war.
+
+### 2. Rand Fishkin's Zero Click Marketing case study (Mark Powell Bespoke)
+
+Fishkin highlights a 40-year-old London tailor who built his best-ever year of business almost entirely through Instagram, with no reliance on search traffic. (source: Rand Fishkin, LinkedIn; 15 May 2026; https://www.linkedin.com/posts/randfishkin_heres-a-great-zero-click-marketing-case-ugcpost-7460787899236515840-ks4i/)
+
+I didn't include this. It's a compelling story, but it's a single anecdote (n=1), and Fishkin himself attributes the result to four different, hard-to-replicate factors at once: a category having a cultural resurgence, a founder whose personality happened to fit the platform, three years of accumulated platform-specific skill, and strong existing PR relationships. There's no isolated, repeatable tactic here I could turn into a step without overstating what one case actually proves. It reads more as inspiration than a playbook item.
+
+### 3. Neil Patel's Ubersuggest-tied posts on local SEO and Meta AI tracking
+
+Two of Patel's four captured posts, one on Google's AI-driven local recommendations, one on brand mentions being tracked by Meta AI, both end with a direct pitch to "check where you stand" on Ubersuggest, his own product. (source: Neil Patel, LinkedIn; 21 June 2026; https://www.linkedin.com/posts/neilkpatel_localseo-aisearch-googlesearch-ugcpost-7474159286164746240-n282/); (source: Neil Patel, LinkedIn; 15 June 2026; https://www.linkedin.com/posts/neilkpatel_aimarketing-seo-brandstrategy-ugcpost-7472256805138657280-zdi4/)
+
+I didn't include either. Both make directionally reasonable points (AI is influencing local recommendations, brand mentions matter for AI visibility), but neither adds anything beyond what's already established with harder data elsewhere in the research, specifically Patel's own NP Digital study (4,300 prompts, 500 keywords) already used in Step 7, and Kevin Indig's topic-specific authority argument. Where a claim is backed by a real study in one post and by a product pitch with no data in another, from the same author, I used the one with the data and left the other out rather than double-counting the same underlying point.
